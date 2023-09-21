@@ -23,6 +23,6 @@ Nada, por el momento
 
 ## Contacto
 
-- LinkedIn: [Frank Valencia]([enlace-a-tu-perfil](https://www.linkedin.com/in/frank-valencia-a65850204/))
+- LinkedIn: Frank Valencia (https://www.linkedin.com/in/frank-valencia-a65850204/)
 
 ¡Gracias por visitar mi perfil!
