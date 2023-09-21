@@ -1,3 +1,6 @@
+
+![Enfocado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 # Hola, soy Frank Alexander Valencia Martinez
 
 En estos momentos me encuentro cursando la carreara de Ingenieria en sistemas con ciclo propedeutico de tecnologia en desarrollo de software, 
