@@ -1,13 +1,15 @@
 
 <div align="center">
-  <h1>Futuro Ingeniero Frank Valencia</h1>
+  <h1></h1>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="150" />
 </div>
 
 
 
 
-# Hola, soy Frank Alexander Valencia Martinez
+<div align="center">
+  <h1> Futuro ingeniero Frank Valencia </h1>
+</div>  
 
 En estos momentos me encuentro cursando la carreara de Ingenieria en sistemas con ciclo propedeutico de tecnologia en desarrollo de software, 
 me gusta resolver problemas y utilizar mis conocimientos para crear nuevas ideas. Busco enfocarme en la parte de analitica de datos,
