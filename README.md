@@ -1,4 +1,4 @@
-# Hola, soy [Frank Alexander Valencia Martinez]
+# Hola, soy Frank Alexander Valencia Martinez
 
 En estos momentos me encuentro cursando la carreara de Ingenieria en sistemas con ciclo propedeutico de tecnologia en desarrollo de software, 
 me gusta resolver problemas y utilizar mis conocimientos para crear nuevas ideas. Busco enfocarme en la parte de analitica de datos,
@@ -8,10 +8,10 @@ documentar poco a poco mi crecimiento
 ## Sobre mí
 
 - 👨‍💻 Soy estudiante de Ingeniería en Sistemas en [ITM].
-- 🌱 Me apasiona [El aprendizaje y resolver desafios que pongan a prueba mi inteligencia].
-- 📚 Estoy aprendiendo [Java y Python].
-- 💬 Puedes preguntarme sobre [Datos, economia, solucion de problemas y cualquier tema interesante que se relacione a mi carrera].
-- 📫 Puedes contactarme en [Frankvalencia1212@gmail.com].
+- 🌱 Me apasiona El aprendizaje y resolver desafios que pongan a prueba mi inteligencia.
+- 📚 Estoy aprendiendo (Java + Python)(POO)
+- 💬 Puedes preguntarme sobre Datos, economia, solucion de problemas y cualquier tema interesante que se relacione a mi carrera.
+- 📫 Puedes contactarme en Frankvalencia1212@gmail.com
 
 ## Proyectos Destacados
 
