@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <h1> <span style="color: Red;"> Futuro ingeniero Frank Valencia </span> </h1>
+  <h1> Futuro ingeniero Frank Valencia  </h1>
 </div>  
 
 
