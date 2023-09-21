@@ -1,5 +1,6 @@
 
-![Enfocado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Focus](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif){: width="200px" height="150px"}
+
 
 # Hola, soy Frank Alexander Valencia Martinez
 
